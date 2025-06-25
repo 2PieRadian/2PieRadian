@@ -1,5 +1,7 @@
 # 💫 About Me:
-Backend developer. Obsessed with clean architecture, fast APIs, and scalable systems.
+Hey, I'm a backend developer who loves building things that just work — fast, scalable, and reliable.
+From RESTful APIs to database design, I enjoy solving problems behind the scenes and making systems run smoothly.
+If my work resonates with you or you’ve found value in it, a coffee would mean a lot. It helps me keep learning, building, and sharing more.
 
 
 ## 🌐 Socials:
