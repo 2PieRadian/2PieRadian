@@ -1,8 +1,8 @@
 # 💫 About Me:
-Full-stack software engineer building and deploying production-grade web applications end-to-end.
-Experienced with frontend and backend development, real-time systems, CI/CD automation, cloud deployments, and observability.
-Have built systems involving authentication, payments, notifications, monitoring, and third-party integrations.
-Comfortable owning products from design and implementation to deployment, debugging, and production reliability.
+I build and deploy production-grade web applications end-to-end.
+I work across frontend and backend, set up CI/CD, deploy to the cloud, and monitor systems in production.
+I’ve worked on authentication, payments, real-time features, notifications, and third-party integrations.
+I like owning products from implementation to deployment, debugging, and keeping things reliable.
 
 
 ## 🌐 Socials:
