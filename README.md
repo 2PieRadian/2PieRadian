@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hey, I'm a backend developer who loves building things that just work — fast, scalable, and reliable.
-From RESTful APIs to database design, I enjoy solving problems behind the scenes and making systems run smoothly.
-If my work resonates with you or you’ve found value in it, a coffee would mean a lot. It helps me keep learning, building, and sharing more.
+Full-stack developer building production web applications end-to-end.
+Experience with React, Node.js, cloud deployments, CI/CD, and real-time systems.
+Currently working on scalable platforms and learning system design.
 
 
 ## 🌐 Socials:
