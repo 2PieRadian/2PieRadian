@@ -1,7 +1,8 @@
 # 💫 About Me:
-Full-stack developer building production web applications end-to-end.
-Experience with React, Node.js, cloud deployments, CI/CD, and real-time systems.
-Currently working on scalable platforms and learning system design.
+Full-stack software engineer building and deploying production-grade web applications end-to-end.
+Experienced with frontend and backend development, real-time systems, CI/CD automation, cloud deployments, and observability.
+Have built systems involving authentication, payments, notifications, monitoring, and third-party integrations.
+Comfortable owning products from design and implementation to deployment, debugging, and production reliability.
 
 
 ## 🌐 Socials:
