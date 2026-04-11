@@ -4,10 +4,10 @@
 I'm a Computer Science student passionate about building **production-grade backend systems** and **scalable microservices architectures**.  
 I enjoy designing systems that actually work in the real world — handling traffic, failures, queues, and all the messy stuff most tutorials skip.  
 
-- Currently diving deep into **Distributed Systems & System Design**  
 - Built **microservices-based applications** using Node.js  
-- Hands-on with **cloud infrastructure (AWS, Oracle Cloud, GCP)**  
-- Strong focus on **performance, scalability, and clean architecture**  
+- Hands-on with **cloud infrastructure (AWS, Oracle Cloud, GCP)**
+- Currently diving deep into **Distributed Systems & System Design**  
+- Strong focus on **performance, scalability, and clean architecture**
 - Motivated to contribute to **Open Source**  
 
 ---
