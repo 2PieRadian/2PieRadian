@@ -37,10 +37,8 @@ I enjoy designing systems that actually work in the real world — handling traf
 
 #### 🔹 [MindCurePath](https://mindcurepath.com)  
 
-- Architected & deployed a **production-grade full-stack system** (Node.js + React) using cloud infrastructure (**AWS + OCI**)  
-- Implemented **hybrid authentication (OAuth + JWT)** with stateless session management  
-- Designed an **event-driven architecture** using SQS, SES & SNS for async processing and decoupled services  
-- Built **scalable backend workflows**: appointment lifecycle, **≤30 min emergency booking**, and admin systems  
+- Architected & deployed a **production-grade full-stack system** (Node.js + React) on **AWS + OCI**, implementing hybrid auth (**OAuth + JWT**) with stateless session management  
+- Engineered an **event-driven backend** (SQS, SES, SNS) powering scalable workflows like appointment lifecycle, **≤30 min emergency booking**, and admin systems    
 
 ---
 
