@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I build and deploy production-grade web applications end-to-end. I work across frontend and backend, set up CI/CD, deploy to the cloud, and monitor systems in production. I’ve worked on authentication, payments, real-time features, notifications, and third-party integrations. I like owning products from implementation to deployment, debugging, and keeping things reliable.
 
 
