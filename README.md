@@ -34,7 +34,7 @@ I'm a Computer Science student passionate about building **production-grade back
 
 ### 🛠 Projects  
 
-#### 🔹 [MindCurePath](https://mindcurepath.com)  
+#### 🔹 [MindCurePath – Production-Grade Counselling & Appointment System](https://mindcurepath.com)  
 
 - Architected & deployed a **production-grade full-stack system** (Node.js + React) on **AWS + OCI**, implementing hybrid auth (**OAuth + JWT**) with stateless session management  
 - Engineered an **event-driven backend** (SQS, SES, SNS) powering scalable workflows like appointment lifecycle, **≤30 min emergency booking**, and admin systems    
