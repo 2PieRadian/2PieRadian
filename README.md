@@ -1,8 +1,7 @@
 # Hi, I'm Raman Bhardwaj 👋  
 
 ### 💡 About Me  
-I'm a Computer Science student passionate about building **production-grade backend systems** and **scalable microservices architectures**.  
-I enjoy designing systems that actually work in the real world — handling traffic, failures, queues, and all the messy stuff most tutorials skip.  
+I'm a Computer Science student passionate about building **production-grade backend systems** and **scalable microservices architectures**. I enjoy designing systems that actually work in the real world — handling traffic, failures, queues, and all the messy stuff most tutorials skip.  
 
 - Built **microservices-based applications** using Node.js  
 - Hands-on with **cloud infrastructure (AWS, Oracle Cloud, GCP)**
