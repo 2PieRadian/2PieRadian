@@ -2,7 +2,6 @@
 
 ### 💡 About Me  
 I'm a Computer Science student passionate about building **production-grade backend systems** and **scalable microservices architectures**.  
-
 I enjoy designing systems that actually work in the real world — handling traffic, failures, queues, and all the messy stuff most tutorials skip.  
 
 - Currently diving deep into **Distributed Systems & System Design**  
