@@ -46,12 +46,8 @@ I enjoy designing systems that actually work in the real world — handling traf
 
 #### 🔹 [Cleaning Services Platform (In Progress)](https://github.com/)  
 
-- Building a **microservices-based backend system** for service booking (laundry, home cleaning, etc.)  
-- Designing architecture with **API Gateway + service isolation** (users, bookings, payments, tracking)  
-- Implementing **real-time order tracking & status updates** using event-driven communication  
-- Integrating **secure payment workflows** with reliable cross-service state handling  
-- Containerizing services with Docker, focusing on **scalability, fault tolerance & high throughput**  
-- Following a **production-first approach**: async processing, service decoupling & extensibility  
+- Building a **production-grade microservices backend** (API Gateway + service isolation) for real-time service booking, tracking & payments, leveraging event-driven architecture with **BullMQ** for async processing  
+- Engineering for **scalability & reliability** using Dockerized services, fault-tolerant workflows, and consistent cross-service state management    
 
 ---
 
