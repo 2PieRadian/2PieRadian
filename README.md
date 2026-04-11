@@ -15,9 +15,9 @@ I enjoy designing systems that actually work in the real world — handling traf
 ### 🚀 Tech Stack  
 
 - **Languages:** JavaScript (Node.js), Java  
-- **Frameworks & Libraries:** Next.js, Express.js, React  
-- **Tools & Platforms:** Docker, AWS (EC2, SES, SNS, SQS), Redis, PostgreSQL, Oracle Cloud Infrastructure  
-- **Practices:** Microservices Architecture, CI/CD, JWT, Event-driven systems & message queues  
+- **Frameworks & Libraries:** Next.js, Express.js, Expo, React
+- **Tools & Platforms:** Docker, AWS (EC2, SES, SNS, SQS), Redis, PostgreSQL, OCI, GCP
+- **Practices:** Microservices Architecture, CI/CD, JWT + OAuth 2.0 (Hybrid Auth Systems), Event-driven systems & message queues  
 
 ---
 
