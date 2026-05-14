@@ -42,7 +42,7 @@ I'm a Computer Science student passionate about building **production-grade back
 
 #### 🔹 [Wash and Wow - Cleaning Services Platform (In Progress)](https://washandwow.in)  
 
-- Building a **production-grade microservices backend** (API Gateway + service isolation) for real-time service booking, tracking & payments, leveraging event-driven architecture with **BullMQ** for async processing  
+- Building a **production-grade microservices backend** (API Gateway + service isolation) for real-time service booking, tracking & payments using an **event-driven architecture with RabbitMQ** for asynchronous inter-service communication 
 - Engineering for **scalability & reliability** using Dockerized services, fault-tolerant workflows, and consistent cross-service state management    
 
 ---
