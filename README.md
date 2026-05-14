@@ -25,10 +25,9 @@ I'm a Computer Science student passionate about building **production-grade back
 **Technical Head @ [MindCurePath](https://mindcurepath.com)**  
 *Dec 2025 – Present*  
 
-- Scaled platform to **130+ active users**, with **119 new users in the last 28 days**  
-- Generated **5.4K+ user events**, driving engagement to **4m 55s avg session time**  
-- Led backend development and system design for a **production-grade counselling platform**  
-- Managed and operated services across **AWS, OCI & GCP** in production  
+- Leading **backend development** and **system design** for a production-grade counselling platform
+- Architected scalable services and deployments across AWS, OCI, and GCP
+- Built event-driven infrastructure handling 5.4K+ user events with strong engagement metrics (4m 55s avg session duration)
 
 ---
 
