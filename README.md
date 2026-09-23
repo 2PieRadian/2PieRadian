@@ -56,8 +56,8 @@ I am a **Freelance Full-Stack & Mobile Software Developer** specializing in arch
 
 <br/>
 
-### [Distributed Multiplayer Chess Platform & Engine](https://github.com/2PieRadian) *(In Active Development)*
-> **Core Java Game Engine • REST / WebSocket API Gateway • Scalable Multiplayer System**
+### [Distributed Multiplayer Chess Platform & Engine](https://github.com/2PieRadian/chess-engine) *(In Active Development)*
+> **Core Java Game Engine • REST / WebSocket API Gateway • Scalable Multiplayer System** | [GitHub Repository](https://github.com/2PieRadian/chess-engine)
 
 - **Custom Java Chess Engine:** Architected an object-oriented, immutable board representation engine in **Java**, implementing complete legal move generation for all pieces, check/checkmate detection, and board state evaluation from first principles.
 - **Engine-to-API Bridge (In Progress):** Exposing the core Java engine via high-throughput REST and **WebSocket** endpoints to stream live board evaluations, validate moves with sub-millisecond latency, and broadcast game states to web/mobile clients.
